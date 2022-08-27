@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "laser_physics:item/raw_silver"
+    }
+}
